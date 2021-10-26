@@ -10,5 +10,4 @@ dependencies:
     - pandas
     - thinc
     - pygame
-    - python3-tk
-    - tk-dev
+
